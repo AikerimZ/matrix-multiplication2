@@ -5,7 +5,7 @@ package epam.lab.task0;
  */
 public class Matrix {
 
-    int[][] m;
+    private int[][] m;
 
     public Matrix(){
     }
